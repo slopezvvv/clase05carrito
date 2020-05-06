@@ -10,10 +10,7 @@
         <link href="estilos/estilos_index.css" rel="stylesheet" type="text/css"/>
         <script src="js/index_scripts.js" type="text/javascript"></script>
     </head>
-    <body onload="
-        console.log(calcularPI());
-        efectoFadeIn();
-    ">
+    <body>
         <div id="wrapper">
             <h1 id='titulo_pagina'>Bienvenidos al guaton de los comics E-shop ®</h1>
             <nav>
